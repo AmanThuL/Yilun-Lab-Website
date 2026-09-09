@@ -40,6 +40,8 @@ automatically.
 
 ## See also
 
+- [Logo assets and Figma export workflow](public/assets/brand/logos/README.md)
+
 - `CLAUDE.md` — guidance for AI coding agents working in this repo
 - `docs/superpowers/specs/` — design specifications (gitignored, local only)
 - `docs/superpowers/plans/` — implementation plans (gitignored, local only)
