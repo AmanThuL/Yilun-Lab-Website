@@ -1,0 +1,56 @@
+{
+  "designSource": "https://www.figma.com/design/aCdzGGtkA3zFmZVYdFAQnV/Yilun-Lab-Logo?node-id=48-6",
+  "page": "Official Logo V2",
+  "exportedOn": "2026-09-09",
+  "workflow": "Edit Figma -> export SVG/PDF -> validate in Illustrator -> copy unchanged to public/assets -> render PNG/JPG from SVG",
+  "vectorExports": [
+    {
+      "file": "pdf/yilun-lab-lockup-horizontal-black.pdf",
+      "sha256": "444fc3ec74b8f198caf1b538d0229c9773b52a324db29381d7450a99784a4910"
+    },
+    {
+      "file": "svg/yilun-lab-lockup-horizontal-black.svg",
+      "sha256": "7f75ca13dc03cb60c345534cfa12d9720cf6314c1d045af6b133470f2fdbd9e4"
+    },
+    {
+      "file": "pdf/yilun-lab-lockup-horizontal-white.pdf",
+      "sha256": "1ff770ae4797eb0652ce7d487ad3a3e1b838b1be5f6344780cc5ebfc2789d4f9"
+    },
+    {
+      "file": "svg/yilun-lab-lockup-horizontal-white.svg",
+      "sha256": "d3d0ac028547ecce79f8e225cfe9e14a11df3879c4a6a435bdf89e9d96d2cc24"
+    },
+    {
+      "file": "pdf/yilun-lab-lockup-stacked-black.pdf",
+      "sha256": "ea610611b2e394ae125608359c856a54cc49394c75a934aa5ec9b609ecb31e87"
+    },
+    {
+      "file": "svg/yilun-lab-lockup-stacked-black.svg",
+      "sha256": "8564e88d03f02fad478242f8c5ee80062938bf4f43794d75b849d9b6ab548866"
+    },
+    {
+      "file": "pdf/yilun-lab-lockup-stacked-white.pdf",
+      "sha256": "de0130a5fb2281a0e63d5221ca495cdd624dd96c1109d84efe1c53ee1c1d675f"
+    },
+    {
+      "file": "svg/yilun-lab-lockup-stacked-white.svg",
+      "sha256": "b2b8f00bcae9aede079ad0837e721a134ad7dde27a0bc40307c20dd79f39bf8f"
+    },
+    {
+      "file": "pdf/yilun-lab-mark-black.pdf",
+      "sha256": "00ddb6367141ed9cd6fd7880c886f2992d00c5226e4e40a7fc07219c24938003"
+    },
+    {
+      "file": "svg/yilun-lab-mark-black.svg",
+      "sha256": "155da9048a670d19c491057aa25e6e04136fc4ef4c77da6b196313348baa68a3"
+    },
+    {
+      "file": "pdf/yilun-lab-mark-white.pdf",
+      "sha256": "d1ad7130fd7fe3370790230b09d71fa6542f7556c59b8e4dfa6feb9518180cd0"
+    },
+    {
+      "file": "svg/yilun-lab-mark-white.svg",
+      "sha256": "67ff19083cd874020bc337d63e99d933c3bc046b35a231aa63647cb21a2b80cb"
+    }
+  ]
+}

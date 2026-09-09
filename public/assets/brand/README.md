@@ -1,8 +1,8 @@
 # YILUN LAB Brand Assets
 
 YILUN LAB uses a monochrome identity system. This directory holds the
-production brand kit — masters in SVG, plus rendered PNG/JPG variants
-for handoff to external use.
+production brand kit — Figma-exported SVG/PDF, plus rendered PNG/JPG variants
+for handoff to external use. See the [logo export guide](logos/README.md).
 
 ## Logo system
 
@@ -18,11 +18,14 @@ version on black or dark backgrounds.
 | Format | When to use                                                       |
 | ------ | ----------------------------------------------------------------- |
 | SVG    | Web, digital layouts, anything that needs to scale                |
+| PDF    | Vector handoff for layout and print preparation (Figma RGB)       |
 | PNG    | Transparent raster — slide decks, documents, thumbnails           |
 | JPG    | Fixed-background previews — social, embedded, "show me the logo" |
 
-SVG is the master. PNG and JPG are rendered from the SVG and re-rendered
-whenever the master changes.
+The design master is [Figma · Official Logo V2](https://www.figma.com/design/aCdzGGtkA3zFmZVYdFAQnV/Yilun-Lab-Logo?node-id=48-6).
+Edit in Figma, export SVG/PDF, verify in Illustrator, then update this directory.
+PNG and JPG are rendered from those SVG exports. The six original masked SVGs
+were replaced with outlined vectors on 2026-09-09; see the [validation and alignment notes](logos/README.md).
 
 ## Naming convention
 
@@ -55,9 +58,9 @@ rest is for Yilun's external use (decks, PR, partners).
 
 | Where                       | File                                                       |
 | --------------------------- | ---------------------------------------------------------- |
-| Navbar (light background)   | `logos/svg/yilun-lab-lockup-horizontal-black.svg`          |
-| Footer (dark background)    | `logos/svg/yilun-lab-lockup-horizontal-white.svg`          |
-| Mobile / favicon source     | `logos/svg/yilun-lab-mark-black.svg`, `/favicon.svg`       |
+| Navbar (desktop + mobile)   | `logos/svg/yilun-lab-mark-white.svg`                        |
+| Connect card                | `logos/svg/yilun-lab-lockup-stacked-white.svg`             |
+| Favicon                     | `/favicon.svg` (separate stylized variant)                 |
 | Social share preview        | `/og-image.jpg`                                            |
 
 ## Favicons & app icons
